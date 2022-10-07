@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap');
+
+
+.item-list {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 40px;
+    font-family: 'Kanit', sans-serif;
+}
+
+.item-list li { 
+    background: #fff;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+    padding: 25px;
+    color: #333;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+    position: relative;
+}
+
